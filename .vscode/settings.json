@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "json.schemaDownload.trustedDomains": {
+    "https://raw.githubusercontent.com/denoland/deno/": true
+  }
+}
