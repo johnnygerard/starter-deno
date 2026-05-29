@@ -5,6 +5,7 @@
   },
   "minimumDependencyAge": "P7D",
   "tasks": {
-    "dev": "deno run --watch src/main.ts"
+    "dev": "deno run --watch src/main.ts",
+    "qa": "deno fmt --check && deno check && deno lint && deno test"
   }
 }
