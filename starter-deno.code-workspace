@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "../rag-docs/content/docs-deno" },
+    { "path": "../rag-docs/content/docs-deno-std" }
+  ],
+  "settings": {
+    "json.schemaDownload.trustedDomains": {
+      "https://raw.githubusercontent.com/denoland/deno/": true
+    }
+  }
+}
